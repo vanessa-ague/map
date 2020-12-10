@@ -1,0 +1,94 @@
+h1 {
+    font-family: garamond;
+    text-align: center;
+    color: #172121;
+}
+
+h2 {
+    font-weight: bold;
+    font-family: garamond;
+    font-size: 18px;
+    color: #172121;
+    text-align: center;
+    padding-bottom: 2%;
+}
+
+h3 {
+    font-weight: normal;
+    font-family: garamond;
+    font-size: 16px;
+    margin: 0;
+    text-align: center;
+    color: #172121;
+}
+
+h4 {
+    font-family: garamond;
+    font-size: 16px;
+    color: #172121;
+    text-align: center;
+}
+
+h5 {
+    font-family: garamond;
+    font-weight: normal;
+    font-size: 18px;
+    display: flex;
+}
+
+h6 {
+    text-align: center;
+    font-family: garamond;
+    font-style: italic;
+    font-size: 14px;
+}
+
+p {
+    font-family: garamond;
+    color: #172121;
+    font-size: 20px;
+}
+
+figcaption {
+    font-family: sans-serif;
+    font-style: italic;
+    font-size: 12px;
+    text-align: center;
+}
+
+body {
+    display: flex;
+}
+
+.information {
+    display: flex;
+    flex-direction: column;
+    padding-left: 2%;
+    padding-right: 2%;
+    padding-bottom: 2%;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 65%;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding-left: 20%;
+    padding-right: 20%;
+}
+
+.graph {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding-left: 20%;
+    padding-right: 20%;
+}
